@@ -289,11 +289,11 @@
         "url": "https://itp.nyu.edu/classes/tangible-interaction/2017/02/25/arduino101-accelerometer-gyro-madgwick-library/"
       },
       {
-        "name": "documentation",
+        "name": "documentation on serial",
         "url": "https://itp.nyu.edu/physcomp/lab-intro-to-serial-communications/"
       },
       {
-        "name": "documentation",
+        "name": "documentation on duplex serial communication",
         "url": "https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-p5js/"
       }
     ]
@@ -356,22 +356,14 @@
     "helpers": ["Mithru"],
     "resources": [
       {
-        "name": "video",
-        "url": "https://www.youtube.com/watch?v=1MPJZ6M52dI"
-      },
-      {
         "name": "documentation",
-        "url": "https://itp.nyu.edu/physcomp/labs/labs-mouse-control/lab-mouse-control/"
+        "url": "https://www.youtube.com/watch?v=TaN5At5RWH8"
       }
     ]
   },
   "translate, rotate, and scale": {
     "helpers": ["Shiffman", "Mimi", "Mithru", "Luisa"],
     "resources": [
-      {
-        "name": "documentation",
-        "url": "https://p5js.org/reference/#group-Transform"
-      },
       {
         "name": "video",
         "url": "https://www.youtube.com/watch?v=o9sgjuh-CBM&list=PLRqwX-V7Uu6ZmA-d3D0iFIvgrB5_7kB8H&index=1"
